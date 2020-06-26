@@ -1,5 +1,6 @@
 # GitHubExample
 Checking out Git Repositories
 
-Hello There! 
+Hello There!
+
 This is a sample Git Repository mostly to understand how it works. 
